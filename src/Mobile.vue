@@ -23,8 +23,8 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 源码地址 https://github.com/sitexa/anires
+* Inspired by http://anymk.com/
+* 源码地址 https://github.com/gentoo111/anires
 * 大家好，我是南方。
 * 我来写一份简历！
 */
@@ -187,45 +187,38 @@ html{
 工作经历
 ====
 
-1. 湖南融耀健康管理有限公司
-2. 湖南三英特旅游智能技术有限公司
-3. 合肥蓝盾科技有限公司
-4. 上海易保网络有限公司
-5. 厦门海环计算机软件有限公司
+
 
 教育经历
 ====
 
-1. 华东理工大学 环境工程学士
-2. 厦门大学 系统工程硕士
+1. 国内某大学 工学学士
 
 文章
 ====
 
-* [故土难离（我的父亲母亲）](https://www.meipian.cn/qacqfbz?uuid=d541c15eef694065bc9d1ac9a07925a2)
-* [油腻腻的中年（小诗）](https://www.meipian.cn/wjaz3zh?uuid=ca1cd053b717451da781786de44e66e7)
-* [生命（老四们的蝼蚁人生）](https://www.meipian.cn/vc4pr59?uuid=799c98f5a187405c94c86f7da7788869)
-* [大健康商业模式](http://www.sitexa.org/technology/%E5%A4%A7%E5%81%A5%E5%BA%B7%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.html)
-* [社区社交商业模型](http://www.sitexa.org/other/%E7%A4%BE%E5%8C%BA%E7%A4%BE%E4%BA%A4%E5%95%86%E4%B8%9A%E6%A8%A1%E5%9E%8B.html)
+* [Kubernetes API 使用指南](http://anymk.com/p/91d0330f4bf1)
+* [开源博客 ANOYI-BLOG 使用指南](http://anymk.com/p/bc89f374b49f)
+* [Spring Security 强制退出指定用户](http://anymk.com/p/7766e0b9d98f)
+* [文章自动生成标签的算法分析与实现](http://anymk.com/p/e97fcb800a47)
+* [MongoDB 集群构建：分片+副本+选举](http://anymk.com/p/31db684deeba)
 
 链接
 ====
 
-* [GitHub](https://github.com/sitexa)
-* [技术博客](http://www.sitexa.org)
-* [南方时代](http://www.sitexa.net)
-* [神秘湘鄂西](http://www.sitexa.cn)
-* [我的简历故事(程序人生公众号文章)](https://mp.weixin.qq.com/s/5rsB956EPVm0FoFOe6xYTg)
+* [GitHub](https://github.com/gentoo111)
+* [技术博客](http://anymk.com)
+* [备用域名](http://www.shizhenzhou.org)
 
 勾引方式
 ====
 
-* 微信：xnpeng
+* 微信：85463138
 
 鸣谢
 ----
 
-* 这段时间，我有些诚煌诚恐。我的简历被很多人关注(49842），我码的那几篇文章也有很多人点击(20095），微信好友增加了2000多人。"程序人生"公众号文章（我的简历故事）阅读量超过十万+。
+* 这段时间，我有些诚煌诚恐。我的简历被很多人关注(49842），我码的那几篇文章也有很多人点击(20095），微信好友增加了2000多人。
 * 有很多企业向我发出了面试邀请，有很多创业团队向我伸出了橄榄枝，一些朋友给我提出非常好的建议，还有很多同学希望跟我进行技术交流，甚至有些企业问我能否承接外包业务。
 * 于是，我受命下山，到了深圳、珠海、北京、天津等地，拜访了一些老板，结识了一些新朋友，见了一些同学和老同事，感触很多，收获很大。IT行业正在发生深刻的变化，新技术、新模式、新思维、新业态，层出不穷，各种探索，各种炒作，让人眼花缭乱。
 * 我对自己也有了一个新的认识。我逐渐发现，我不是去找一份工作，而是在寻找一些机会，一些志同道合的伙伴，一份激动人心的事业。很荣幸，已经有几个朋友跟我达成了意向，准备组建团队。
